@@ -1,0 +1,2 @@
+
+INSERT INTO Ostoskori (Asiakas_id, Nimi, Lkm, Varauspvm) VALUES (valittuAsiakas, cbToimipisteVaraus.Text, numHenkilotVaraus.Text, cbPalveluVaraus.Text, dtpAloitusVaraus.Text);
